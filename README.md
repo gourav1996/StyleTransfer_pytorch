@@ -5,7 +5,7 @@ Add two images to generate New image
 ![alt text](https://github.com/gourav1996/StyleTransfer_pytohrc/blob/master/car.jpeg?raw=true)
 
 * <h3> Style Image </h3>
-![alt text](https://github.com/gourav1996/StyleTransfer_pytohrc/blob/master/gear.jpg?raw=true)
+![alt text](https://github.com/gourav1996/StyleTransfer_pytohrc/blob/master/gear1.jpg?raw=true)
 
 * <h3> Target Image </h3>
 ![alt text](https://github.com/gourav1996/StyleTransfer_pytohrc/blob/master/target.png?raw=true)
